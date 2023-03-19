@@ -3,7 +3,12 @@
 
 ### Pipeline and Architecture
 
-![Pipeline](images/pipeline.jpg)
+
+<figure>
+  <img src="images/pipeline.jpg" alt="Pipeline">
+  <figcaption>Pipeline</figcaption>
+</figure>
+
 
 
 ### Learned Curvature Visualization
