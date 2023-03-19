@@ -1,17 +1,23 @@
 # HamGNN
 
 
-### Pipeline and Architecture
+## Pipeline and Architecture
 
 
 <figure>
   <img src="images/pipeline.jpg" alt="Pipeline">
-  <figcaption>Pipeline</figcaption>
+  <figcaption style="text-align: center;">Pipeline</figcaption>
 </figure>
 
 
+      
 
-### Learned Curvature Visualization
+
+
+
+## Learned Curvature Visualization
 
 
 ![Pipeline](images/tsne.jpg)
+
+
