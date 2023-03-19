@@ -4,14 +4,13 @@
 ## Pipeline and Architecture
 
 
-<figure>
-  <img src="images/pipeline.jpg" alt="Pipeline">
-  <figcaption style="text-align: center;">Pipeline</figcaption>
-</figure>
-
+![Pipeline](images/pipeline.jpg)
 
       
 
+__We present the full training and testing as follows.__
+
+<img src="images/alg.png" alt="Image description"  height="500">
 
 
 
@@ -19,5 +18,3 @@
 
 
 ![Pipeline](images/tsne.jpg)
-
-
